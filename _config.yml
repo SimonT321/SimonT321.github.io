@@ -36,11 +36,6 @@ social:
   - title: spotify
     url: https://open.spotify.com/user/vriidq98gc0us6c6ntanwxztf?si=1fi4KDh5SqeGm9vnbor-8g&utm_source=copy-link
 
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Wisconsin - Washington
-
 # Build settings
 markdown: kramdown
 permalink: pretty
