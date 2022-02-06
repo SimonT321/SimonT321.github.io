@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2020-12-15
+img: whats-up-is-down.png
+alt: Android game development
+project-date: Fall 2020
+client: Software Engineering Course Project
+category: Unity Game Development, C#
+description: Description coming soon.
+link: https://github.com/SimonT321/whats-up-is-down
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: 2022-02-01
+img: stock-trading-project.png
+alt: Stonks
+project-date: February 2022
+client: Personal Project
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Coming Soon
 ---
