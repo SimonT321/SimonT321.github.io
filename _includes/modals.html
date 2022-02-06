@@ -17,7 +17,7 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <div class="modal-description">
                                 {% if post.description %}
-                                    <p>{{ post.description }}</p>
+                                    <p>{{ post.description | markdownify }}</p>
                                     
                                 {% endif %}
                             </div>
