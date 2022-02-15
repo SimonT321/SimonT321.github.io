@@ -1,4 +1,5 @@
 ---
+title: Personal Website
 layout: default
 modal-id: 6
 date: 2022-02-01
@@ -7,6 +8,8 @@ alt: HTML Tag Cartoon
 project-date: February 2022
 client: Personal Project
 category: Web Development, Jekyll
-description: Coming soon
 link: https://github.com/SimonT321/SimonT321.github.io
+description: '
+The website you are currently looking at! The website is built with Jekyll and deployed on Github Pages. This is the first website I have deployed. It has been fun learning more about HTML, CSS, Javascript, and hosting. 
+'
 ---
