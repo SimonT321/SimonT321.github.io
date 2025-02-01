@@ -171,6 +171,14 @@ header .intro-text .skills {
     border: 0;
 }
 
+/* filepath: /Users/simontheuer/projects/SimonT321.github.io/assets/css/main.css */
+.profile-pic {
+    border-radius: 50%;
+    width: 200px; /* Adjust the size as needed */
+    height: 200px; /* Adjust the size as needed */
+    object-fit: cover;
+  }
+
 section {
     padding: 100px 0;
 }
