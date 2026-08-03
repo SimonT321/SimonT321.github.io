@@ -8,10 +8,14 @@
 $(function() {
     $('.page-scroll a').bind('click', function(event) {
         var $anchor = $(this);
-        $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top
-        }, 1500, 'easeInOutExpo');
-        event.preventDefault();
+        var hash = $anchor.attr('href').split('#')[1];
+        var $target = hash ? $('#' + hash) : $();
+        if ($target.length) {
+            $('html, body').stop().animate({
+                scrollTop: $target.offset().top
+            }, 1500, 'easeInOutExpo');
+            event.preventDefault();
+        }
     });
 });
 

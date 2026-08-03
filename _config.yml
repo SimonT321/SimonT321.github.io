@@ -35,6 +35,11 @@ social:
 markdown: kramdown
 permalink: pretty
 
+collections:
+  blog:
+    output: true
+    permalink: /blog/:title/
+
 #for posts
 defaults:
   - scope:
@@ -42,3 +47,8 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+  - scope:
+      path: ""
+      type: "blog"
+    values:
+      layout: "post"
