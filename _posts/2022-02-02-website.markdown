@@ -10,6 +10,6 @@ client: Personal Project
 category: Web Development, Jekyll
 link: https://github.com/SimonT321/SimonT321.github.io
 description: '
-The website you are currently looking at! The website is built with Jekyll and deployed on Github Pages. This is the first website I have deployed. It has been fun learning more about HTML, CSS, Javascript, and hosting. 
+The website you are currently looking at! It is built with Jekyll and deployed on Github Pages. This was the first website I ever deployed, it is a good ongoing project for staying comfortable with HTML, CSS, Javascript.
 '
 ---
