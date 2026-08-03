@@ -13,7 +13,6 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
-
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: myshortname
@@ -31,10 +30,6 @@ social:
     url: http://github.com/SimonT321
   - title: linkedin
     url: http://linkedin.com/in/simon-theuer
-  - title: twitter
-    url: https://twitter.com/Matt_Word
-  - title: spotify
-    url: https://open.spotify.com/user/vriidq98gc0us6c6ntanwxztf?si=1fi4KDh5SqeGm9vnbor-8g&utm_source=copy-link
 
 # Build settings
 markdown: kramdown
